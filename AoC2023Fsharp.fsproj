@@ -10,6 +10,9 @@
         <None Include="day01\part1.fsx" />
         <None Include="day01\part2.fsx" />
         <Content Include="day01\input.txt" />
+        <None Include="day02\part1.fsx" />
+        <None Include="day02\part2.fsx" />
+        <Content Include="day02\input.txt" />
     </ItemGroup>
 
 </Project>
