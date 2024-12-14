@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AoC2023Fsharp", "AoC2023Fsharp.fsproj", "{1B03BDC1-B9B7-4B34-9E19-BC78E7868D2A}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AoC2024Fsharp", "AoC2024Fsharp.fsproj", "{1B03BDC1-B9B7-4B34-9E19-BC78E7868D2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
