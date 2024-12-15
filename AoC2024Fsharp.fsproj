@@ -15,12 +15,15 @@
         <None Include="day02\part2.fsx" />
         <Content Include="day02\input.txt" />
         <Content Include="README.md" />
-        <None Include="day04\part1.fsx" />
-        <None Include="day04\part2.fsx" />
-        <Content Include="day04\input.txt" />
         <None Include="day03\part1.fsx" />
         <Content Include="day03\input.txt" />
         <None Include="day03\part2.fsx" />
+        <None Include="day04\part1.fsx" />
+        <None Include="day04\part2.fsx" />
+        <Content Include="day04\input.txt" />
+        <None Include="day05\part1.fsx" />
+        <None Include="day05\part2.fsx" />
+        <Content Include="day05\input.txt" />
     </ItemGroup>
 
 </Project>
