@@ -39,7 +39,7 @@ let parse (input: string) =
     let rules =
         ordering.Split("\n")
         |> Array.map _.Split("|")
-        |> Array.map (fun ([| before; after |]) -> int before, int after)
+        |> Array.map (fun [| before; after |] -> int before, int after)
         |> List.ofArray
 
     let updates =
